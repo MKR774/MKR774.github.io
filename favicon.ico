@@ -1,18 +1,1 @@
- <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="24"
-        hight="24"
-        viewBox="0 0 426 425"
-        fill="none"
-      >
-        <path d="M80.2569 148.752H0V314.109H80.2569V148.752Z" fill="black" />
-        <path
-          d="M250.457 148.752H170.2V314.109H250.457V148.752Z"
-          fill="black"
-        />
-        <path d="M342.476 0H0V83.0244H170.2H342.476V0Z" fill="black" />
-        <path
-          d="M342.476 424.116H425.5V83.0244H342.476V424.116Z"
-          fill="black"
-        />
-      </svg>
+https://uploads.codesandbox.io/uploads/user/9172bfef-a79c-4eab-af2f-41d7bbd963a6/7sej-mkrLogo.ico
